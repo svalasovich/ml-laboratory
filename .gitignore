@@ -1,0 +1,8 @@
+venv
+jupyter
+.idea
+.ipynb_checkpoints
+*.png
+*.jpg
+*/lab5/mail/*
+*/lab5/spam/*
